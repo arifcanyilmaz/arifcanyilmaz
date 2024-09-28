@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="Untitled(1).svg" alt="arifcan yılmaz" />
+    <img src="Untitled (1).svg" alt="arifcan yılmaz" />
   </picture>
 </p>
 
