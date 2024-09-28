@@ -1,8 +1,7 @@
 
-  <picture>
     ![ArifcanYılmaz](https://github.com/user-attachments/assets/7967626f-bcc7-46b8-8672-cc9d72e1e004)
 
-  </picture>
+
 
 
 
