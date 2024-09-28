@@ -12,4 +12,4 @@
 
 
 <h3 align="left">My Front End Clone Projects</h3>
-<img src="https://github.com/arifcanyilmaz/kodluyoruz-front-end/blob/main/Linkedin%20Clone.png" alt="bootstrap" width="250" height="250"/>
+<img src="https://github.com/arifcanyilmaz/kodluyoruz-front-end/blob/main/Linkedin%20Clone.png" alt="bootstrap" width="600" height="600"/>
