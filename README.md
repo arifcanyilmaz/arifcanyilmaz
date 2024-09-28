@@ -13,17 +13,6 @@
 
 <h2>My Unity Projects</h2>
 <h3 align="center">Alone in The Space</h3>
-<video controls width="250">
-  <source src="/media/cc0-videos/flower.webm" type="video/webm" />
-
-  <source src="/media/cc0-videos/flower.mp4" type="video/mp4" />
-
-  Download the
-  <a href="/media/cc0-videos/flower.webm">WEBM</a>
-  or
-  <a href="/media/cc0-videos/flower.mp4">MP4</a>
-  video.
-</video>
-
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 <img src="https://github.com/arifcanyilmaz/kodluyoruz-front-end/blob/main/Instagram%20Clone.png" alt="bootstrap" width="600" height="600"/>
