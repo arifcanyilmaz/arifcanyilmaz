@@ -13,8 +13,17 @@
 
 <h2>My Unity Projects</h2>
 <h3 align="center">Alone in The Space</h3>
-<video widht="600" height="600" controls>  <source src="https://private-user-images.githubusercontent.com/83744320/208893167-d51ba1d3-8b73-484e-8d36-c314cc25afa3.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NTQ2MzcsIm5iZiI6MTcyNzU1NDMzNywicGF0aCI6Ii84Mzc0NDMyMC8yMDg4OTMxNjctZDUxYmExZDMtOGI3My00ODRlLThkMzYtYzMxNGNjMjVhZmEzLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDIwMTIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiZmVjYWExZDFlZWI3NDliYWM5Yjc3ZThmMWZiMmY2ZGIwMjM0NzE2Yjk0NTM4ZTdhYzk4MGNlNTNkMzU1MDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7bAVXD3jRogb_VNWPlMDDuap9MWw5ULGWG1amt5260U" type="video/mp4"> </video>
+<video controls width="250">
+  <source src="/media/cc0-videos/flower.webm" type="video/webm" />
 
+  <source src="/media/cc0-videos/flower.mp4" type="video/mp4" />
+
+  Download the
+  <a href="/media/cc0-videos/flower.webm">WEBM</a>
+  or
+  <a href="/media/cc0-videos/flower.mp4">MP4</a>
+  video.
+</video>
 
 
 <img src="https://github.com/arifcanyilmaz/kodluyoruz-front-end/blob/main/Instagram%20Clone.png" alt="bootstrap" width="600" height="600"/>
