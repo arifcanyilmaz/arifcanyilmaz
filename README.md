@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arifcan Yılmaz</h1>
-<h3 align="center">A software developer who graduated from the Information Systems Engineering Department of Sakarya University.</h3>
+<h4 align="center">A software developer who graduated from the Information Systems Engineering Department of Sakarya University.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
