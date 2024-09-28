@@ -1,5 +1,4 @@
-
-![ArifcanYılmaz](https://github.com/user-attachments/assets/c185381c-37ff-4d85-b19f-2f5682bb49f4)
+![Arifcan YILMAZ](https://github.com/user-attachments/assets/da1d9e40-584b-4b42-a134-1bf678200f7f)
 
 <h1 align="center">Arifcan Yılmaz</h1>
 <h2 align="center"><i> My name is Arif, and I’m 23 years old. I live in Istanbul and graduated from Sakarya University with a degree in Information Systems Engineering. I have explored various fields in software development, and currently, I am working with JavaScript. You can scroll down to see the projects I've worked on in different areas of software development. I share the source code for all my projects and am always open to feedback and suggestions. <i> <br> Keep coding!</h2>
