@@ -18,11 +18,11 @@
 
 ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
 
-<h2 align="center">1- <i>Linkedin Clone</i></h2>  
+<h2 align="center">2- <i>Linkedin Clone</i></h2>  
 
 ![Linkedin Clone](https://github.com/user-attachments/assets/28f8a191-c404-4ae7-a99e-23e1ea22bba0)
 
-<h2 align="center">1- <i>Medium Clone</i></h2>  
+<h2 align="center">3- <i>Medium Clone</i></h2>  
 
 ![Medium Clone](https://github.com/user-attachments/assets/d6797802-7cb7-444b-a6e7-8b5222f49880)
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/d785f65b-50a5-4bc0-8157-9a86b28195ca
 https://github.com/user-attachments/assets/49101af0-1d83-44af-9bdc-5fe8d3a6a956
 
 <br>
-<h2 align="center">2- <i>Happy Ball:Last Dance</i></h2>
+<h2 align="center">3- <i>Happy Ball:Last Dance</i></h2>
 
 https://github.com/user-attachments/assets/b77f6b7c-bfd4-445c-869b-adf428ef4146
 
