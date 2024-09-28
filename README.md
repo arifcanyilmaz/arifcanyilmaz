@@ -48,7 +48,3 @@ https://github.com/user-attachments/assets/49101af0-1d83-44af-9bdc-5fe8d3a6a956
 <h2 align="center">3- <i>Happy Ball:Last Dance</i></h2>
 
 https://github.com/user-attachments/assets/b77f6b7c-bfd4-445c-869b-adf428ef4146
-
-
-
-<img src="https://github.com/arifcanyilmaz/kodluyoruz-front-end/blob/main/Instagram%20Clone.png" alt="bootstrap" width="600" height="600"/>
