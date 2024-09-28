@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="![Uploading Arifcan-YILMAZ.svg…]()"/>
-    <img src="profile-header.light.svg" alt="Gaurav Joshi" />
+    ![ArifcanYılmaz](https://github.com/user-attachments/assets/7967626f-bcc7-46b8-8672-cc9d72e1e004)
+
   </picture>
 </p>
 
