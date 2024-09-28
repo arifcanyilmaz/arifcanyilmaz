@@ -1,11 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400px" height="110px" text-anchor="middle">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Carlito";
+        src: url(data:application/font-ttf;charset=utf-8;base64,base64_data);
+        font-weight: normal;
+        font-style: normal;
+      }
+      .heading {
+        font-family: "Carlito";
+        font-size: 36px;
+        fill: #3B3838;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      }
+      .sub-heading {
+        font-family: "Carlito";
+        font-size: 20px;
+        fill: #767171;
+        letter-spacing: 0.5px;
+      }
+    </style>
+  </defs>
 
+  <text class="heading" x="50%" y="40">
+    Arifcan Yılmaz 
+  </text>
 
-![ArifcanYılmaz](https://github.com/user-attachments/assets/7967626f-bcc7-46b8-8672-cc9d72e1e004)
+  <text class="sub-heading" x="50%" y="75">
+    Sakarya University | Information Systems Engineering
+  </text>
+</svg>
 
-
-
-
-
+<p align="center">
+  <picture>
+    <img src="Untitled.svg" alt="Gaurav Joshi" />
+  </picture>
+</p>
 
 <h1 align="center">Arifcan Yılmaz</h1>
 <h2 align="center"><i> My name is Arif, and I’m 23 years old. I live in Istanbul and graduated from Sakarya University with a degree in Information Systems Engineering. I have explored various fields in software development, and currently, I am working with JavaScript. You can scroll down to see the projects I've worked on in different areas of software development. I share the source code for all my projects and am always open to feedback and suggestions. <i> <br> Keep coding!</h2>
