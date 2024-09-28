@@ -1,5 +1,6 @@
-<h1 align="center">Arifcan Yılmaz</h1>
-<h4 align="center">A software developer who graduated from the Information Systems Engineering Department of Sakarya University.</h4>
+<h1>Arifcan Yılmaz</h1>
+<hr>
+<h4>A software developer who graduated from the Information Systems Engineering Department of Sakarya University.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
