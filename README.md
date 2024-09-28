@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Arifcan Yılmaz</h1>
-<h3 align="center"><i> My name is Arif, and I’m 23 years old. I live in Istanbul and graduated from Sakarya University with a degree in Information Systems Engineering. I have explored various fields in software development, and currently, I am working with JavaScript. You can scroll down to see the projects I've worked on in different areas of software development. I share the source code for all my projects and am always open to feedback and suggestions. <i> <br> Keep coding!</h3>
+<h2 align="center"><i> My name is Arif, and I’m 23 years old. I live in Istanbul and graduated from Sakarya University with a degree in Information Systems Engineering. I have explored various fields in software development, and currently, I am working with JavaScript. You can scroll down to see the projects I've worked on in different areas of software development. I share the source code for all my projects and am always open to feedback and suggestions. <i> <br> Keep coding!</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
