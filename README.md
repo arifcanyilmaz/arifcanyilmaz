@@ -44,11 +44,8 @@
 <details>
   <summary><h1>My cSharp Project</h1></summary>
   <h2 align="center">1- <i>EyeCareClinic</i></h2>  
-  <details>
-    <summary>Open Image.</summary>
   
   ![eyecareclinic](https://github.com/user-attachments/assets/29531333-59b8-406e-9eb8-9837e7e81395)
-  </details>
 </details>
 <br><br>
 <details>
