@@ -24,9 +24,10 @@
        
   https://github.com/user-attachments/assets/35bfae2d-8eaf-4620-85f7-7b31d8bd325b
   </details>
-    <h2 align="center">1- <i>Clean Blog</i></h2>  
-    <details>
-    <summar>Open the Video.</summar>
+
+  <h2 align="center">2- <i>Clean Blog</i></h2>  
+  <details>
+  <summar>Open the Video.</summar>
 
   https://github.com/user-attachments/assets/83a31333-6c6f-4a77-bf4e-7bda3e44b08d
   </details>
