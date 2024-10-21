@@ -19,10 +19,9 @@
 <h2 align="center">1- <i>Instagram Clone</i></h2>  
 <details>
   <summary>
- 
-![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
-
+    
   </summary>
+  ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
 </details>
 
 <h2 align="center">2- <i>Linkedin Clone</i></h2>  
