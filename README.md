@@ -16,13 +16,14 @@
 <br><br>
 
 <details>
-    <summar><h1>My Node.js Project</h1></summar>
+    <summary><h1>My Node.js Project</h1></summary>
 
   https://github.com/user-attachments/assets/35bfae2d-8eaf-4620-85f7-7b31d8bd325b
 
 </details> 
 <details>
   <summary><h1>My Frontend Clone Project</h1></summary>
+  <details>
   <h2 align="center">1- <i>Instagram Clone</i></h2>  
   
   ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
