@@ -27,7 +27,7 @@
 
   <h2 align="center">2- <i>Clean Blog</i></h2>  
   <details>
-  <summar>Open the Video.</summar>
+  <summary>Open the Video.</summary>
 
   https://github.com/user-attachments/assets/83a31333-6c6f-4a77-bf4e-7bda3e44b08d
   </details>
