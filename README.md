@@ -17,12 +17,8 @@
 <details>
   <summary><h1>My Frontend Clone Project</h1></summary>
   <h2 align="center">1- <i>Instagram Clone</i></h2>  
-  <details>
-    <summary>Open Image.</summary>
-    
-    ![371803748-26672940-5ac5-4d49-a92c-a9ae42890db6](https://github.com/user-attachments/assets/51b6b355-efb7-4a71-98cf-6b2bd77d45ce)
-  </details>
   
+  ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
   
   <h2 align="center">2- <i>Linkedin Clone</i></h2>  
   <details>
