@@ -21,13 +21,22 @@
   https://github.com/user-attachments/assets/35bfae2d-8eaf-4620-85f7-7b31d8bd325b
 
 </details> 
+
+
+
+
+
+
+
 <details>
-  <summary><h1>My Frontend Clone Project</h1></summary>
-  <details>
   <h2 align="center">1- <i>Instagram Clone</i></h2>  
-  
+   <details>
+  <summary><h1>My Frontend Clone Project</h1></summary>
+     
   ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
   </details>
+
+  
   <h2 align="center">2- <i>Linkedin Clone</i></h2>  
   <details>
   <summary>Open Image.</summary>
@@ -45,6 +54,12 @@
 
 </details>
 <br><br>
+
+
+
+
+
+
 <details>
   <summary><h1>My cSharp Project</h1></summary>
   <h2 align="center">1- <i>EyeCareClinic</i></h2>  
@@ -52,6 +67,13 @@
   ![eyecareclinic](https://github.com/user-attachments/assets/29531333-59b8-406e-9eb8-9837e7e81395)
 </details>
 <br><br>
+
+
+
+
+
+
+
 <details>
   <summary><h1>My Unity Projects</h1></summary>
   <h2 align="center">1- <i>Alone in The Space</i></h2>
