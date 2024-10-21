@@ -16,7 +16,7 @@
 <br><br>
 
 <details>
-    <summary><h1>My Node.js Project</h1></summary>
+    <summary><h1>My Node.js Projects</h1></summary>
     
    <h2 align="center">1- <i>Pcat</i></h2>  
    <details>
@@ -40,7 +40,7 @@
 
 
 <details>
-  <summary><h1>My Frontend Clone Project</h1></summary>
+  <summary><h1>My Frontend Clone Projects</h1></summary>
   
   <h2 align="center">1- <i>Instagram Clone</i></h2>  
   <details>
