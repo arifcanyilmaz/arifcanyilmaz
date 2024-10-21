@@ -23,33 +23,51 @@
   ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
 </details>
 
-<h2 align="center">2- <i>Linkedin Clone</i></h2>  
 
+<h2 align="center">2- <i>Linkedin Clone</i></h2>  
+<details>
+<summary>Open Image.</summary>
+  
 ![Linkedin Clone](https://github.com/user-attachments/assets/28f8a191-c404-4ae7-a99e-23e1ea22bba0)
+</details>
+
 
 <h2 align="center">3- <i>Medium Clone</i></h2>  
-
+<details>
+<summary>Open Image.</summary> 
+  
 ![Medium Clone](https://github.com/user-attachments/assets/d6797802-7cb7-444b-a6e7-8b5222f49880)
-
+</details>
 
 <br><br>
 <h1>My cSharp Project</h1>
 <h2 align="center">1- <i>EyeCareClinic</i></h2>  
+<details>
+  <summary>Open Image.</summary>
 
 ![eyecareclinic](https://github.com/user-attachments/assets/29531333-59b8-406e-9eb8-9837e7e81395)
+</details>
+
 
 <br><br>
 <h1>My Unity Projects</h1>
 <h2 align="center">1- <i>Alone in The Space</i></h2>
-
+<details>
+<summary>Open Video</summary>
+  
 https://github.com/user-attachments/assets/d785f65b-50a5-4bc0-8157-9a86b28195ca
-
+</details>
 <br>
 <h2 align="center">2- <i>Happy Ball</i></h2>
-
+<details>
+<summary>Open Video.</summary>
+  
 https://github.com/user-attachments/assets/49101af0-1d83-44af-9bdc-5fe8d3a6a956
-
+</details>
 <br>
+<details>
+<summary>Open Video.</summary>
+  
 <h2 align="center">3- <i>Happy Ball:Last Dance</i></h2>
-
+</details>
 https://github.com/user-attachments/assets/b77f6b7c-bfd4-445c-869b-adf428ef4146
