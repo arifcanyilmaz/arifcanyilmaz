@@ -69,5 +69,8 @@ https://github.com/user-attachments/assets/49101af0-1d83-44af-9bdc-5fe8d3a6a956
 <summary>Open Video.</summary>
   
 <h2 align="center">3- <i>Happy Ball:Last Dance</i></h2>
-</details>
+<details>
+<summary>Open Video.</summary>
+
 https://github.com/user-attachments/assets/b77f6b7c-bfd4-445c-869b-adf428ef4146
+</details>
