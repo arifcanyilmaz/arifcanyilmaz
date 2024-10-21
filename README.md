@@ -19,7 +19,6 @@
   <h2 align="center">1- <i>Instagram Clone</i></h2>  
   <details>
     <summary>Open Image.</summary>
-    
     ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
   </details>
   
