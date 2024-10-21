@@ -21,6 +21,7 @@
   <summary>
     
   </summary>
+  
   ![Instagram Clone](https://github.com/user-attachments/assets/26672940-5ac5-4d49-a92c-a9ae42890db6)
 </details>
 
