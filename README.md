@@ -83,7 +83,7 @@
   ![eyecareclinic](https://github.com/user-attachments/assets/29531333-59b8-406e-9eb8-9837e7e81395)
   </details>
 
-  <h2 align="center">1- <i>TeknolojiAmbari-MVC_Project</i></h2>  
+  <h2 align="center">2- <i>TeknolojiAmbari-MVC_Project</i></h2>  
   <details>
     <summary>Open The Video.</summary>
     
