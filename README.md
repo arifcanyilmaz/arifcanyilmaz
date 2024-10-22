@@ -75,9 +75,20 @@
 
 <details>
   <summary><h1>My cSharp Project</h1></summary>
+  
   <h2 align="center">1- <i>EyeCareClinic</i></h2>  
+  <details>
+  <summary>Open The Image.</summary>
   
   ![eyecareclinic](https://github.com/user-attachments/assets/29531333-59b8-406e-9eb8-9837e7e81395)
+  </details>
+
+  <h2 align="center">1- <i>TeknolojiAmbari-MVC_Project</i></h2>  
+  <details>
+    <summary>Open The Video.</summary>
+    
+  https://github.com/user-attachments/assets/db50d681-8d92-4e75-ba57-03fd9465fcea
+  </details>
 </details>
 <br>
 
