@@ -17,15 +17,22 @@
 
 <details>
     <summary><h1>My Node.js Projects</h1></summary>
+
+  <h2 align="center">1- <i>SmartEdu</i></h2>  
+   <details>
+     <summary>Open the Video.</summary>
+       
+  https://github.com/user-attachments/assets/70d8097d-9779-450b-beb9-463d5b86920f
+  </details>
     
-   <h2 align="center">1- <i>Pcat</i></h2>  
+   <h2 align="center">2- <i>Pcat</i></h2>  
    <details>
      <summary>Open the Video.</summary>
        
   https://github.com/user-attachments/assets/35bfae2d-8eaf-4620-85f7-7b31d8bd325b
   </details>
 
-  <h2 align="center">2- <i>Clean Blog</i></h2>  
+  <h2 align="center">3- <i>Clean Blog</i></h2>  
   <details>
   <summary>Open the Video.</summary>
 
