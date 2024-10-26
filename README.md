@@ -1,6 +1,5 @@
-<picture>
-    <img src="light theme.svg" alt="Light Theme">
-</picture>
+<img src="1.png" alt="Light Theme">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifcanyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="arifcanyilmaz" /> </p>
 
