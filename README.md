@@ -1,7 +1,6 @@
 <picture>
     <source srcset="Untitled (1).svg" media="(prefers-color-scheme: dark)" alt="Untitled">
     <source srcset="light theme.svg" media="(prefers-color-scheme: light)" alt="Light Theme">
-    <img src="Untitled (1).svg" alt="Untitled">
 </picture>
 
 <div style="display: flex; align-items: flex-start;">
