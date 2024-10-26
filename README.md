@@ -1,6 +1,4 @@
 <picture>
-    <source srcset="Untitled (1).svg" media="(prefers-color-scheme: dark)" alt="Untitled">
-    <source srcset="light theme.svg" media="(prefers-color-scheme: light)" alt="Light Theme">
     <img src="light theme.svg" alt="Light Theme">
 </picture>
 
